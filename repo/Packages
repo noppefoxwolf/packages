@@ -1,14 +1,14 @@
 Package: com.noppelab.tweak.retryunlock
-Version: 0.0.1-22+debug
+Version: 0.0.1-23+debug
 Section: Tweaks
 Maintainer: Tomoya Hirano
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: Files//RetryUnlock/com.noppelab.tweak.retryunlock_0.0.1-22+debug_iphoneos-arm.deb
-Size: 3224
+Filename: Files//RetryUnlock/com.noppelab.tweak.retryunlock_0.0.1-23+debug_iphoneos-arm.deb
+Size: 3174
 Installed-Size: 72
-MD5sum: f581e9f7c8d10e0535833c974fb4d9bf
-Description: An awesome MobileSubstrate tweak!
+MD5sum: a0a8743b53439d853d92cb7389e8b64f
+Description: retry face/finger authentiation when tapped lockscreen.
 Name: RetryUnlock
 Author: Tomoya Hirano
 
